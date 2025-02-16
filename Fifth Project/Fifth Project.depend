@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1671487340 source:c:\programación\c\fifth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666295548 source:c:\programación\c\fifth project\solve for the nth value of an arithmetic sequence.c
+	<stdio.h>
+
+1666296896 source:c:\programación\c\fifth project\solve for the sum of an arithmetic sequence.c
+
+1666298456 source:c:\programación\c\fifth project\calculate the salary.c
+
+1666642208 source:c:\programación\c\fifth project\calculate the time to arrive.c
+
+1666643384 source:c:\programación\c\fifth project\second calculator.c
+
+1666657571 source:c:\programación\c\fifth project\remove the decimals from a float number.c
+
+1668025632 source:c:\programación\c\fifth project\sum of triple digits.c
+
+1668036901 source:c:\programación\c\fifth project\output the reverse of a digit.c
+	<math.h>
+	<stdio.h>
+
+1671485600 source:c:\programación\c\fifth project\distance between 2 points.c
+	<math.h>
+	<stdio.h>
+
+1671488009 source:c:\programación\c\fifth project\exponent of a number.c
+	<stdio.h>
+

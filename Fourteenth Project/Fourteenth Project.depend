@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673491987 source:c:\programación\c\fourteenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673476758 source:c:\programación\c\fourteenth project\declaration and initialization of a matrix.c
+
+1673477881 source:c:\programación\c\fourteenth project\exercise of a multiplication table.c
+	<stdio.h>
+
+1673491461 source:c:\programación\c\fourteenth project\input from the user to fill a matrix.c
+

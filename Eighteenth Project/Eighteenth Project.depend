@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673935576 source:c:\programación\c\eighteenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673923401 source:c:\programación\c\eighteenth project\find the sum of an arithmetic sequence.c
+	<stdio.h>
+
+1673923822 source:c:\programación\c\eighteenth project\find the factorial of a number.c
+	<stdio.h>
+
+1673926129 source:c:\programación\c\eighteenth project\find an element of the fibonacci series.c
+	<stdio.h>
+
+1673935778 source:c:\programación\c\eighteenth project\find the sum of all the digits of a number.c
+	<stdio.h>
+
+1673936285 source:c:\programación\c\eighteenth project\find the number of digits in a number.c
+	<stdio.h>
+

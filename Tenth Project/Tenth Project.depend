@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1672939996 source:c:\programación\c\tenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1672804283 source:c:\programación\c\tenth project\printing from 1 to x & viceversa.c
+
+1672805970 source:c:\programación\c\tenth project\printing the sum of a sequence of numbers.c
+
+1672806760 source:c:\programación\c\tenth project\print a multiplication table.c
+	<stdio.h>
+
+1672807852 source:c:\programación\c\tenth project\printing x even natural numbers.c
+
+1672877400 source:c:\programación\c\tenth project\centered pyramid of numbers.c
+
+1672879484 source:c:\programación\c\tenth project\multiples of 3 and 5.c
+
+1672884884 source:c:\programación\c\tenth project\multiples of 3 or 5.c
+
+1672935308 source:c:\programación\c\tenth project\ascending or not ascending sequences.c
+
+1672938917 source:c:\programación\c\tenth project\sum of digits within a number.c
+
+1672942741 source:c:\programación\c\tenth project\print odd numbers within a certain range.c
+

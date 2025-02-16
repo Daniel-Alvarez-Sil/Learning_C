@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1672365565 source:c:\programación\c\eighth project\print ascii symbols with representation.c
+
+1672371117 source:c:\programación\c\eighth project\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1672365270 source:c:\programación\c\eighth project\print a date in hexadecimal.c
+	<stdio.h>
+
+1672365800 source:c:\programación\c\eighth project\defines the nature of a character.c
+
+1672369916 source:c:\programación\c\eighth project\final excercise.c
+	<stdlib.h>
+	<stdio.h>
+

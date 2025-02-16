@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1674167314 source:c:\programación\c\twenty-first project\defining a union.c
+	<stdio.h>
+
+1674168662 source:c:\programación\c\twenty-first project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674167484 source:c:\programación\c\twenty-first project\differences between structs & unions.c
+

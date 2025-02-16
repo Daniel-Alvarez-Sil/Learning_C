@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Seventh Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Seventh Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Seventh Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Calculate the Following Date.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Compare Two Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Leap Year or NOT.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Month Number to Month Name.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Pairs of Divisible Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Returns the Absolute Value of a Number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Returns the Quadrant of a Given Coordinate.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Seconds into Formatted Time.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="The Number Has 2 Digits or 3 Digits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

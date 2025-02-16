@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671673997 source:c:\programación\c\seventh project\compare two numbers.c
+
+1672090384 source:c:\programación\c\seventh project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1671674239 source:c:\programación\c\seventh project\the number has 2 digits or 3 digits.c
+
+1671675738 source:c:\programación\c\seventh project\returns the absolute value of a number.c
+
+1671677428 source:c:\programación\c\seventh project\returns the quadrant of a given coordinate.c
+
+1671913185 source:c:\programación\c\seventh project\month number to month name.c
+
+1671912694 source:c:\programación\c\seventh project\seconds into formatted time.c
+
+1671913185 source:c:\programación\c\seventh project\pairs of divisible numbers.c
+
+1671915174 source:c:\programación\c\seventh project\leap year or not.c
+
+1672091039 source:c:\programación\c\seventh project\calculate the following date.c
+	<stdio.h>
+

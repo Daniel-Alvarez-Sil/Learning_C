@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Sixteenth Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Sixteenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Sixteenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Copy and Display an Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Closest Number to Zero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Sum of the Elements of an Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Is an Array Sorted or Not.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Palindrome Excercise.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print &amp; Count the Repeated Elements of an Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print &amp; Count the Unique Elements of an Array.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printing the Largest Sum of Adjacent Digits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Reset the Elements of an Array to Zero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rotate the Elements of an Array to the Left.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Rotate the Elements of an Array to the Right.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

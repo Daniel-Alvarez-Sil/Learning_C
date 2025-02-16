@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1674348719 source:c:\programación\c\twenty-fourth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674329942 source:c:\programación\c\twenty-fourth project\creating a file and reading from a file.c
+	<stdio.h>
+	<stdlib.h>
+
+1674330932 source:c:\programación\c\twenty-fourth project\exploring the use of fgetc.c
+	<stdio.h>
+	<stdlib.h>
+
+1674332334 source:c:\programación\c\twenty-fourth project\exploring the use of fputc.c
+	<stdio.h>
+	<stdlib.h>
+
+1674336766 source:c:\programación\c\twenty-fourth project\exploring the use of fprintf and fscanf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674337324 source:c:\programación\c\twenty-fourth project\exploring the use of fputs and fgets.c
+	<stdio.h>
+	<stdlib.h>
+
+1674338460 source:c:\programación\c\twenty-fourth project\exploring the use of feof.c
+	<stdio.h>
+	<stdlib.h>
+
+1674340163 source:c:\programación\c\twenty-fourth project\find the number of characters in a file.c
+	<stdio.h>
+	<stdlib.h>
+
+1674341026 source:c:\programación\c\twenty-fourth project\find the number of lines in a file.c
+	<stdio.h>
+	<stdlib.h>
+
+1674342690 source:c:\programación\c\twenty-fourth project\find the 2nd power of ten numbers.c
+	<stdio.h>
+	<stdlib.h>
+
+1674344520 source:c:\programación\c\twenty-fourth project\load of numbers from a file.c
+	<stdio.h>
+	<stdlib.h>
+
+1674346001 source:c:\programación\c\twenty-fourth project\find the number of appearances of a character.c
+	<stdio.h>
+
+1674348719 source:c:\programación\c\twenty-fourth project\find the number of appearances of the letters a-z.c
+	<stdio.h>
+
+1674348719 source:c:\programación\c\twenty-fourth project\find the number of appearances of the capital letters a-z.c
+	<stdio.h>
+

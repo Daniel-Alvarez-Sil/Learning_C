@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1673214782 source:c:\programación\c\eleventh project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1672948343 source:c:\programación\c\eleventh project\function that prints greetings.c
+
+1673214565 source:c:\programación\c\eleventh project\function that prints min and max of 2 numbers.c
+
+1672958944 source:c:\programación\c\eleventh project\function that prints max of 3 numbers.c
+
+1673214969 source:c:\programación\c\eleventh project\function that returns the average of 3 grades.c
+	<stdio.h>
+	<stdlib.h>
+

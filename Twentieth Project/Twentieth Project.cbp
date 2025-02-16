@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Twentieth Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Twentieth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Twentieth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Calculate the Following Date.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Defining &amp; Initializing Structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Establish a Struct Element Within a Struct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Initializing Structs in C.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Receive Input From User and Print Output.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Static Array of a Structure.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Structs Having Arrays as Data Members.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Using Logical Operators with Structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Using Mathematical Operators with Structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Using Typedef Syntax With Structs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

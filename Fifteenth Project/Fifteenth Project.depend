@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1673550497 source:c:\programación\c\fifteenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673501180 source:c:\programación\c\fifteenth project\declaring and initializing pointers.c
+
+1673501634 source:c:\programación\c\fifteenth project\printing the address of a variable.c
+
+1673550474 source:c:\programación\c\fifteenth project\assignment of max and min values by reference.c
+
+1673550474 source:c:\programación\c\fifteenth project\excercise of passing by reference.c
+	<stdio.h>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Nineteenth Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Nineteenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Nineteenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Calculate Number of Values Less than X.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Calculate the Number of Appearances of a Character in a Sequence.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Calculate the Sum of All Even Values.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find a Particular Number of the Pell Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find an Element of the Lucas Series.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find if a Sequence is Ascending, Descending or Neither.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find if the Digits of a Number Match their Position in Terms of Even or Odd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find if the Sum of the Digits of a Number is Even or Odd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find if the Sum of the Digits of a Number is Odd or Even.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Maximum Value of a Sequence.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Minimum Value of a Sequence.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Even Values.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Ocurrences of a Digit in a Number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print From 1 to N.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print From N to 1 to N.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print a Sequence of TOTAL Char1s and 2 x TOTAL Char2s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print a Sequence of TOTAL Char1s and TOTAL UpperCase Char1s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print a Sequence of TOTAL Num1s and TOTAL Num2s.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

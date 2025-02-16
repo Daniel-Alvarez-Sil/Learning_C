@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1672791299 source:c:\programación\c\ninth project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672709813 source:c:\programación\c\ninth project\excercise of while (printing asterisks).c
+
+1672785401 source:c:\programación\c\ninth project\calculator for simple exponential operations.c
+
+1672780653 source:c:\programación\c\ninth project\calculator for the average grade of students.c
+	<stdio.h>
+
+1672782256 source:c:\programación\c\ninth project\excercise of do-while loops.c
+
+1672783329 source:c:\programación\c\ninth project\introduction to for loops.c
+
+1672785401 source:c:\programación\c\ninth project\calculator for simple exponential operations 2.c
+
+1672787216 source:c:\programación\c\ninth project\excercise of loops.c
+
+1672789269 source:c:\programación\c\ninth project\trinagle of consecuent numbers.c
+
+1672790609 source:c:\programación\c\ninth project\triangle of repeating numbers.c
+
+1672802582 source:c:\programación\c\ninth project\the million dollar question.c
+

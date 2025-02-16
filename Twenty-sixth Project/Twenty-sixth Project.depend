@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1674363201 source:c:\programación\c\twenty-sixth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674356888 source:c:\programación\c\twenty-sixth project\swap information between 2 variables, without a 3rd variable.c
+	<stdio.h>
+	<stdlib.h>
+
+1674362001 source:c:\programación\c\twenty-sixth project\swap information between 2 vectors, n complexity.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1674093882 source:c:\programación\c\twentieth project\defining & initializing structs.c
+	<stdio.h>
+
+1674150938 source:c:\programación\c\twentieth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674096055 source:c:\programación\c\twentieth project\using typedef syntax with structs.c
+	<stdio.h>
+
+1674096756 source:c:\programación\c\twentieth project\calculate the following date.c
+	<stdio.h>
+
+1674098881 source:c:\programación\c\twentieth project\initializing structs in c.c
+
+1674099940 source:c:\programación\c\twentieth project\receive input from user and print output.c
+	<stdio.h>
+
+1674101446 source:c:\programación\c\twentieth project\static array of a structure.c
+	<stdio.h>
+
+1674102420 source:c:\programación\c\twentieth project\structs having arrays as data members.c
+	<stdio.h>
+	<string.h>
+
+1674147191 source:c:\programación\c\twentieth project\using logical operators with structs.c
+	<stdio.h>
+
+1674163169 source:c:\programación\c\twentieth project\using mathematical operators with structs.c
+	<stdio.h>
+	<string.h>
+

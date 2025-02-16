@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1674082250 source:c:\programación\c\nineteenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673983740 source:c:\programación\c\nineteenth project\calculate number of values less than x.c
+	<stdio.h>
+
+1673983787 source:c:\programación\c\nineteenth project\calculate the number of appearances of a character in a sequence.c
+	<stdio.h>
+
+1673984584 source:c:\programación\c\nineteenth project\find the number of even values.c
+	<stdio.h>
+
+1673985524 source:c:\programación\c\nineteenth project\calculate the sum of all even values.c
+	<stdio.h>
+
+1673988284 source:c:\programación\c\nineteenth project\print from 1 to n.c
+	<stdio.h>
+
+1674077952 source:c:\programación\c\nineteenth project\print from n to 1 to n.c
+	<stdio.h>
+
+1673990849 source:c:\programación\c\nineteenth project\find an element of the lucas series.c
+	<stdio.h>
+
+1673993709 source:c:\programación\c\nineteenth project\find the maximum value of a sequence.c
+	<stdio.h>
+
+1673994526 source:c:\programación\c\nineteenth project\find the minimum value of a sequence.c
+	<stdio.h>
+
+1673995652 source:c:\programación\c\nineteenth project\find a particular number of the pell numbers.c
+	<stdio.h>
+
+1674017872 source:c:\programación\c\nineteenth project\find if the sum of the digits of a number is even or odd.c
+	<stdio.h>
+
+1674062474 source:c:\programación\c\nineteenth project\find if the sum of the digits of a number is odd or even.c
+	<stdio.h>
+
+1674072049 source:c:\programación\c\nineteenth project\find if the digits of a number match their position in terms of even or odd.c
+	<stdio.h>
+
+1674072108 source:c:\programación\c\nineteenth project\print a sequence of total num1s and total num2s.c
+	<stdio.h>
+
+1674073848 source:c:\programación\c\nineteenth project\print a sequence of total char1s and 2 x total char2s.c
+	<stdio.h>
+
+1674075312 source:c:\programación\c\nineteenth project\print a sequence of total char1s and total uppercase char1s.c
+	<stdio.h>
+
+1674080299 source:c:\programación\c\nineteenth project\find if a sequence is ascending, descending or neither.c
+	<stdio.h>
+
+1674085631 source:c:\programación\c\nineteenth project\find the number of ocurrences of a digit in a number.c
+	<stdio.h>
+

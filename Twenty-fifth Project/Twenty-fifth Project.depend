@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1674354052 source:c:\programación\c\twenty-fifth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674352660 source:c:\programación\c\twenty-fifth project\creating and printing a linked list.c
+	<stdio.h>
+	<stdlib.h>
+
+1674353718 source:c:\programación\c\twenty-fifth project\find the number of elements in a list.c
+	<stdio.h>
+	<stdlib.h>
+
+1674354402 source:c:\programación\c\twenty-fifth project\bool datatype in c.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1674356142 source:c:\programación\c\twenty-fifth project\find if a number is present in a list.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1674356142 source:c:\programación\c\twenty-fifth project\find the number of appearances of a number in a list.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

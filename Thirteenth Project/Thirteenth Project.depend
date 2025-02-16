@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1673412673 source:c:\programación\c\thirteenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673398673 source:c:\programación\c\thirteenth project\initializing arrays.c
+
+1673403560 source:c:\programación\c\thirteenth project\accessing elements of an array.c
+
+1673404593 source:c:\programación\c\thirteenth project\find the maximum value of an array.c
+
+1673409478 source:c:\programación\c\thirteenth project\excercise of arrays, using define statement.c
+	<stdio.h>
+
+1673412673 source:c:\programación\c\thirteenth project\procedure to find good neighbours.c
+	<stdio.h>
+

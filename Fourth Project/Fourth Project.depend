@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1666039854 source:c:\programación\c\fourth project\input from user.c
+	<stdio.h>
+	<stdlib.h>
+
+1666292281 source:c:\programación\c\fourth project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666047797 source:c:\programación\c\fourth project\display a number.c
+
+1666047848 source:c:\programación\c\fourth project\display the date of birth.c
+
+1666048086 source:c:\programación\c\fourth project\rectangle´s area.c
+
+1666053144 source:c:\programación\c\fourth project\rectangle´s perimeter.c
+
+1666053092 source:c:\programación\c\fourth project\casting.c
+
+1666223730 source:c:\programación\c\fourth project\calculate a floating average.c
+
+1666223985 source:c:\programación\c\fourth project\weather station.c
+
+1666292281 source:c:\programación\c\fourth project\swap.c
+

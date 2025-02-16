@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1671585042 source:c:\programación\c\sixth project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1671494529 source:c:\programación\c\sixth project\simple if and else cycle.c
+
+1671494529 source:c:\programación\c\sixth project\even or odd number.c
+
+1671496175 source:c:\programación\c\sixth project\maximum and minimum float numbers.c
+
+1671508427 source:c:\programación\c\sixth project\max and min within 3 options.c
+
+1671555448 source:c:\programación\c\sixth project\excercise of cycle flows.c
+
+1671574883 source:c:\programación\c\sixth project\logical operators (and, or, not).c
+
+1671577625 source:c:\programación\c\sixth project\excercise of switch case.c
+
+1671584244 source:c:\programación\c\sixth project\intermediate calculator.c
+
+1671589419 source:c:\programación\c\sixth project\final test.c
+	<stdio.h>
+	<stdlib.h>
+
+1671672395 source:c:\programación\c\sixth project\scoring other people´s code.c
+	<stdio.h>
+

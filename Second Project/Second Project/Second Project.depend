@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666034416 source:c:\programación\c\second project\second project\format specifications.c
+
+1666033888 source:c:\programación\c\second project\second project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1666034384 source:c:\programación\c\second project\second project\calculator.c
+

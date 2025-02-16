@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1673917596 source:c:\programación\c\seventeenth project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1673903141 source:c:\programación\c\seventeenth project\initialize and print a string.c
+	<stdio.h>
+
+1673905032 source:c:\programación\c\seventeenth project\find the length of a string without ext. libraries.c
+	<stdio.h>
+
+1673907295 source:c:\programación\c\seventeenth project\find the number of words in a sentence.c
+	<string.h>
+
+1673914077 source:c:\programación\c\seventeenth project\find if a word is palindrome or not.c
+	<string.h>
+
+1673915660 source:c:\programación\c\seventeenth project\strcpy funtion without using ext. libraries.c
+	<stdio.h>
+
+1673918384 source:c:\programación\c\seventeenth project\strcmp function without using ext. libraries.c
+	<stdio.h>
+

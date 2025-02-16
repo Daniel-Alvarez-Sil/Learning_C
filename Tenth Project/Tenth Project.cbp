@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tenth Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tenth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Ascending or Not Ascending Sequences.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Centered Pyramid of Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Multiples of 3 OR 5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Multiples of 3 and 5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print Odd Numbers Within a Certain Range.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Print a Multiplication Table.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printing X Even Natural Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printing from 1 to X &amp; ViceVersa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Printing the Sum of a Sequence of Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Sum of Digits Within a Number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

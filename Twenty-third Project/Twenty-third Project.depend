@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1674187680 source:c:\programación\c\twenty-third project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1674174040 source:c:\programación\c\twenty-third project\counter arrays.c
+
+1674174497 source:c:\programación\c\twenty-third project\exercise of counter arrays.c
+
+1674187680 source:c:\programación\c\twenty-third project\find number with max appearances in a sequences using counter array.c
+	<stdlib.h>
+
+1674187680 source:c:\programación\c\twenty-third project\count the elements of array without direct relationship between index and value.c
+	<stdlib.h>
+
+1674187680 source:c:\programación\c\twenty-third project\find how many times a letter appears in a sequence.c
+	<stdlib.h>
+
+1674187680 source:c:\programación\c\twenty-third project\find how many times a capital letter appears in a sequence.c
+	<stdlib.h>
+
+1674188004 source:c:\programación\c\twenty-third project\find how many times a character appears in a sequence.c
+	<stdlib.h>
+

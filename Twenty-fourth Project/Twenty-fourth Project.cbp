@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Twenty-fourth Project" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Twenty-fourth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Twenty-fourth Project" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Creating a File and Reading From a File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exploring the Use of feof.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exploring the Use of fgetc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exploring the Use of fprintf and fscanf.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exploring the Use of fputc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Exploring the Use of fputs and fgets.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the 2nd Power of Ten Numbers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Appearances of a Character.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Appearances of the Capital Letters A-Z.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Appearances of the Letters a-z.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Characters in a File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Find the Number of Lines in a File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Load of Numbers from a File.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
